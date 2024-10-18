@@ -9,7 +9,7 @@ body {
 }
   
 .container{
-    background: white;
+    background: rgb(198, 238, 255);
     opacity: 0.90;
     max-width: 80%; 
     margin: auto; /* this helps centering */
@@ -26,6 +26,7 @@ h2 {
     font-size: 50px;
     margin-top: 0;
     margin-bottom: 20px;
+    color: rgb(0, 126, 11);
 }
   
 button {
@@ -41,10 +42,13 @@ button {
 }
   
 #increment-btn {
-   background: #2C2891;;
+   background: #1d8aff;
 }
   
 #save-btn {
-    background: #660063;
+    background: #da3131;
 }
-  
+
+#entries {
+    color:rgb(255, 47, 47)
+}
